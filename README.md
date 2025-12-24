@@ -1,3 +1,5 @@
 # Kafka_Project
 This project implements a real-time data engineering pipeline that ingests stock market data from an external API, streams it through Apache Kafka, and persists it into SQL Server for downstream analytics and reporting.
 The primary goal of this project is to simulate a production-style streaming architecture while working with real technologies commonly used by data engineers. It focuses on building an end-to-end pipeline where data flows continuously from source to storage in a reliable and scalable way.
+
+<img width="818" height="135" alt="kafkaproject architecturedrawio" src="https://github.com/user-attachments/assets/1dce642c-30d8-4378-8be6-cfc54b1e977b" />
